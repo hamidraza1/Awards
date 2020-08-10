@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/hamidraza1/Awards.git/static/css/main.f828c15c.chunk.css",
+    "main.js": "/hamidraza1/Awards.git/static/js/main.873e097a.chunk.js",
+    "main.js.map": "/hamidraza1/Awards.git/static/js/main.873e097a.chunk.js.map",
+    "runtime-main.js": "/hamidraza1/Awards.git/static/js/runtime-main.d7165c19.js",
+    "runtime-main.js.map": "/hamidraza1/Awards.git/static/js/runtime-main.d7165c19.js.map",
+    "static/js/2.d341043f.chunk.js": "/hamidraza1/Awards.git/static/js/2.d341043f.chunk.js",
+    "static/js/2.d341043f.chunk.js.map": "/hamidraza1/Awards.git/static/js/2.d341043f.chunk.js.map",
+    "index.html": "/hamidraza1/Awards.git/index.html",
+    "precache-manifest.6ad7d282265d08a685c98feda460e6b2.js": "/hamidraza1/Awards.git/precache-manifest.6ad7d282265d08a685c98feda460e6b2.js",
+    "service-worker.js": "/hamidraza1/Awards.git/service-worker.js",
+    "static/css/main.f828c15c.chunk.css.map": "/hamidraza1/Awards.git/static/css/main.f828c15c.chunk.css.map",
+    "static/js/2.d341043f.chunk.js.LICENSE.txt": "/hamidraza1/Awards.git/static/js/2.d341043f.chunk.js.LICENSE.txt",
+    "static/media/arrow-left.f9a44e1c.svg": "/hamidraza1/Awards.git/static/media/arrow-left.f9a44e1c.svg",
+    "static/media/arrow-right.dc372a07.svg": "/hamidraza1/Awards.git/static/media/arrow-right.dc372a07.svg",
+    "static/media/curology-min.png": "/hamidraza1/Awards.git/static/media/curology-min.e84c2055.png",
+    "static/media/lumin-min.png": "/hamidraza1/Awards.git/static/media/lumin-min.379bad94.png",
+    "static/media/up-arrow-circle.ea0dc563.svg": "/hamidraza1/Awards.git/static/media/up-arrow-circle.ea0dc563.svg",
+    "static/media/yourspace-min.png": "/hamidraza1/Awards.git/static/media/yourspace-min.5f9e3077.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d7165c19.js",
+    "static/js/2.d341043f.chunk.js",
+    "static/css/main.f828c15c.chunk.css",
+    "static/js/main.873e097a.chunk.js"
+  ]
+}
